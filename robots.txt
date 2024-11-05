@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://alipooba.github.io/CiE/sitemap_index.txt
+Sitemap: https://alipooba.github.io/FhR/sitemap_index.txt
+Sitemap: https://alipooba.github.io/hoT/sitemap_index.txt
+Sitemap: https://alipooba.github.io/mSw/sitemap_index.txt
